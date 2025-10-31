@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Legislações do Concurso</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Legislações do Concurso</h1>
+    </header>
+    <main>
+        <div class="container">
+            <div class="column">
+                <h2>Guarda Civil Municipal</h2>
+                <ul>
+                    <li><a href="legislacoes/guarda_civil_municipal/lei_7716_1989.html" target="_blank">Lei nº 7.716/1989</a></li>
+                    <li><a href="legislacoes/guarda_civil_municipal/lei_8069_1990.html" target="_blank">Lei nº 8.069/1990</a></li>
+                    <li><a href="legislacoes/guarda_civil_municipal/lei_8072_1990.html" target="_blank">Lei nº 8.072/1990</a></li>
+                    <li><a href="legislacoes/guarda_civil_municipal/lei_9455_1997.html" target="_blank">Lei nº 9.455/1997</a></li>
+                    <li><a href="legislacoes/guarda_civil_municipal/lei_9605_1998.html" target="_blank">Lei nº 9.605/1998</a></li>
+                    <li><a href="legislacoes/guarda_civil_municipal/lei_10826_2003.html" target="_blank">Lei nº 10.826/2003</a></li>
+                    <li><a href="legislacoes/guarda_civil_municipal/lei_11340_2006.html" target="_blank">Lei nº 11.340/2006</a></li>
+                    <li><a href="legislacoes/guarda_civil_municipal/lei_13022_2014.html" target="_blank">Lei nº 13.022/2014</a></li>
+                    <li><a href="legislacoes/guarda_civil_municipal/lei_13675_2018.html" target="_blank">Lei nº 13.675/2018</a></li>
+                    <li><a href="legislacoes/guarda_civil_municipal/lei_13869_2019.html" target="_blank">Lei nº 13.869/2019</a></li>
+                    <li><a href="legislacoes/guarda_civil_municipal/codigo_penal.html" target="_blank">Código Penal</a></li>
+                    <li><span style="color: red;">Lei nº 11.343/2006 (Não foi possível baixar)</span></li>
+                </ul>
+            </div>
+            <div class="column">
+                <h2>Agente Municipal de Trânsito</h2>
+                <ul>
+                    <li><span style="color: red;">Código de Trânsito Brasileiro (Não foi possível baixar)</span></li>
+                    <li><a href="legislacoes/agente_de_transito/resolucao_882_2021.pdf" target="_blank">Resolução CONTRAN nº 882/2021</a></li>
+                    <li><a href="legislacoes/agente_de_transito/resolucao_911_2022.pdf" target="_blank">Resolução CONTRAN nº 911/2022</a></li>
+                    <li><a href="legislacoes/agente_de_transito/resolucao_912_2022.pdf" target="_blank">Resolução CONTRAN nº 912/2022</a></li>
+                    <li><a href="legislacoes/agente_de_transito/resolucao_918_2022.pdf" target="_blank">Resolução CONTRAN nº 918/2022</a></li>
+                    <li><a href="legislacoes/agente_de_transito/resolucao_940_2022.pdf" target="_blank">Resolução CONTRAN nº 940/2022</a></li>
+                    <li><a href="legislacoes/agente_de_transito/resolucao_955_2022.pdf" target="_blank">Resolução CONTRAN nº 955/2022</a></li>
+                    <li><a href="legislacoes/agente_de_transito/resolucao_960_2022.pdf" target="_blank">Resolução CONTRAN nº 960/2022</a></li>
+                    <li><a href="legislacoes/agente_de_transito/resolucao_968_2022.pdf" target="_blank">Resolução CONTRAN nº 968/2022</a></li>
+                    <li><a href="legislacoes/agente_de_transito/resolucao_969_2022.pdf" target="_blank">Resolução CONTRAN nº 969/2022</a></li>
+                    <li><a href="legislacoes/agente_de_transito/resolucao_1004_2023.pdf" target="_blank">Resolução CONTRAN nº 1.004/2023</a></li>
+                    <li><a href="legislacoes/agente_de_transito/resolucao_973_2022.pdf" target="_blank">Resolução CONTRAN nº 973/2022</a></li>
+                    <li><span style="color: red;">Apostila “Direção Defensiva e Prevenção de Sinistros” (Não foi possível baixar)</span></li>
+                </ul>
+            </div>
+        </div>
+        <div class="pdf-viewer">
+            <h2>Visualizador de PDF</h2>
+            <iframe id="pdf-iframe" src=""></iframe>
+        </div>
+    </main>
+    <script>
+        const links = document.querySelectorAll('a');
+        const iframe = document.getElementById('pdf-iframe');
+
+        links.forEach(link => {
+            link.addEventListener('click', function(e) {
+                if (this.href.endsWith('.pdf') || this.href.endsWith('.html')) {
+                    e.preventDefault();
+                    iframe.src = this.href;
+                }
+            });
+        });
+    </script>
+</body>
+</html>
