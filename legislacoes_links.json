@@ -1,0 +1,188 @@
+{
+  "guarda_civil_municipal": {
+    "legislacao_extravagante": [
+      {
+        "nome": "LEI Nº 7.716/1989",
+        "descricao": "Lei dos Crimes resultantes de Preconceito de Raça ou de Cor",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l7716.htm"
+      },
+      {
+        "nome": "LEI Nº 8.069/1990",
+        "descricao": "Estatuto da Criança e do Adolescente (Título VII - Dos Crimes e Das Infrações Administrativas)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+      },
+      {
+        "nome": "LEI Nº 8.072/1990",
+        "descricao": "Lei dos Crimes Hediondos",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l8072.htm"
+      },
+      {
+        "nome": "LEI Nº 9.455/1997",
+        "descricao": "Lei de Tortura",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9455.htm"
+      },
+      {
+        "nome": "LEI Nº 9.605/1998",
+        "descricao": "Lei dos Crimes Ambientais",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/l9605.htm"
+      },
+      {
+        "nome": "LEI Nº 10.826/2003",
+        "descricao": "Registro, posse e comercialização de armas de fogo e munição e Sistema Nacional de Armas – Sinarm",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.826.htm"
+      },
+      {
+        "nome": "LEI Nº 11.340/2006",
+        "descricao": "Lei Maria da Penha",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"
+      },
+      {
+        "nome": "LEI Nº 11.343/2006",
+        "descricao": "Lei de Drogas",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm"
+      },
+      {
+        "nome": "LEI Nº 13.022/2014",
+        "descricao": "Estatuto Geral das Guardas Municipais",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13022.htm"
+      },
+      {
+        "nome": "LEI Nº 13.675/2018",
+        "descricao": "SUSP - Sistema Único de Segurança Pública",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13675.htm"
+      },
+      {
+        "nome": "LEI Nº 13.869/2019",
+        "descricao": "Lei do Abuso de Autoridade",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13869.htm"
+      }
+    ],
+    "codigo_penal": {
+      "nome": "DECRETO-LEI Nº 2.848/1940",
+      "descricao": "Código Penal Brasileiro",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+      "topicos": [
+        "Da Imputabilidade Penal",
+        "Da Periclitação da Vida e da Saúde",
+        "Das Lesões Corporais",
+        "Das Medidas de Segurança",
+        "Do Crime",
+        "Dos Crimes Contra a Administração Pública",
+        "Dos Crimes Contra a Dignidade Sexual",
+        "Dos Crimes Contra a Fé Pública",
+        "Dos Crimes Contra a Honra",
+        "Dos Crimes Contra a Liberdade Individual",
+        "Dos Crimes Contra a Paz Pública",
+        "Dos Crimes Contra a Propriedade Imaterial",
+        "Dos Crimes Contra a Vida",
+        "Dos Crimes Contra o Estado Democrático de Direito",
+        "Dos Crimes Contra o Patrimônio",
+        "Dos Crimes Contra o Sentimento Religioso e Contra o Respeito aos Mortos"
+      ]
+    }
+  },
+  "agente_de_transito": {
+    "codigo_transito": {
+      "nome": "LEI FEDERAL Nº 9.503/1997",
+      "descricao": "Código de Trânsito Brasileiro",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+    },
+    "resolucoes_contran": [
+      {
+        "nome": "RESOLUÇÃO CONTRAN Nº 882/2021",
+        "data": "13 de dezembro de 2021",
+        "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8822021.pdf"
+      },
+      {
+        "nome": "RESOLUÇÃO CONTRAN Nº 911/2022",
+        "data": "28 de março de 2022",
+        "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9112022.pdf"
+      },
+      {
+        "nome": "RESOLUÇÃO CONTRAN Nº 912/2022",
+        "data": "28 de março de 2022",
+        "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9122022.pdf"
+      },
+      {
+        "nome": "RESOLUÇÃO CONTRAN Nº 918/2022",
+        "data": "28 de março de 2022",
+        "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9182022.pdf"
+      },
+      {
+        "nome": "RESOLUÇÃO CONTRAN Nº 940/2022",
+        "data": "28 de março de 2022",
+        "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9402022.pdf"
+      },
+      {
+        "nome": "RESOLUÇÃO CONTRAN Nº 955/2022",
+        "data": "28 de março de 2022",
+        "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9552022.pdf"
+      },
+      {
+        "nome": "RESOLUÇÃO CONTRAN Nº 960/2022",
+        "data": "17 de maio de 2022",
+        "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9602022.pdf"
+      },
+      {
+        "nome": "RESOLUÇÃO CONTRAN Nº 968/2022",
+        "data": "20 de junho de 2022",
+        "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao9682022.pdf"
+      },
+      {
+        "nome": "RESOLUÇÃO CONTRAN Nº 969/2022",
+        "data": "20 de junho de 2022",
+        "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao9692022.pdf"
+      },
+      {
+        "nome": "RESOLUÇÃO CONTRAN Nº 973/2022",
+        "data": "18 de julho de 2022",
+        "descricao": "Institui o Regulamento de Sinalização Viária",
+        "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao9732022.pdf"
+      },
+      {
+        "nome": "RESOLUÇÃO CONTRAN Nº 1.004/2023",
+        "data": "21 de dezembro de 2023",
+        "url": "https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao10042023.pdf"
+      }
+    ],
+    "material_complementar": [
+      {
+        "nome": "Apostila Direção Defensiva e Prevenção de Sinistros",
+        "descricao": "DETRAN-PE - 2024",
+        "url": "https://igeduc.org.br/informacoes/113",
+        "categoria": "Publicações complementares"
+      }
+    ]
+  },
+  "conhecimentos_gerais": {
+    "disciplinas": [
+      "Língua Portuguesa (LPT)",
+      "Raciocínio Lógico (RLC)",
+      "Informática (INF)"
+    ]
+  },
+  "informacoes_concurso": {
+    "edital": "EDITAL Nº 001/2025",
+    "municipio": "Paulista (PE)",
+    "cargos": [
+      {
+        "nome": "Guarda Civil Municipal",
+        "vagas_ac": 85,
+        "vagas_pcd": 5,
+        "total_vagas": 90,
+        "carga_horaria": "30 horas semanais",
+        "remuneracao_base": "R$ 1.518,00"
+      },
+      {
+        "nome": "Agente Municipal de Trânsito",
+        "vagas_ac": 28,
+        "vagas_pcd": 2,
+        "total_vagas": 30,
+        "carga_horaria": "30 horas semanais",
+        "remuneracao_base": "R$ 1.518,00"
+      }
+    ],
+    "site_concurso": "https://igeduc.selecao.net.br/informacoes/113/",
+    "site_prefeitura": "https://www.paulista.pe.gov.br/"
+  }
+}
